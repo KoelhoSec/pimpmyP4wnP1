@@ -26,10 +26,10 @@
 - Check if wifi is connected successfully with 'iwconfig'.
 
 - Run pimpmyP4wnP1 script (choose option 0 on pimpmykali script when prompted):
-git clone https://github.com/KoelhoSec/pimpmyP4wnP1
-cd pimpmyP4wnP1
-chmod +x pimpmyP4wnP1.sh
-./pimpmyP4wnP1.sh
+  - git clone https://github.com/KoelhoSec/pimpmyP4wnP1
+  - cd pimpmyP4wnP1
+  - chmod +x pimpmyP4wnP1.sh
+  - ./pimpmyP4wnP1.sh
 
 ## Payload Repositories
 Repositories that may give ideas for payloads. Some might not work, as they are not recent (not maintained).
@@ -41,11 +41,11 @@ Repositories that may give ideas for payloads. Some might not work, as they are 
 
 ## Extra Resources
 
-https://levelup.gitconnected.com/hacking-with-the-raspberry-pi-zero-w-8520a4d72b2e
-https://jamesachambers.com/kali-linux-p4wnp1-aloa-guide-setup-usage-examples/
-https://medium.com/azkrath/p4wnp1-a-l-o-a-an-advanced-hid-attack-device-d906ae5bf48c
-https://wickedpicker.com/deploying-ransomware-with-a-weaponized-usb-device/
+- https://levelup.gitconnected.com/hacking-with-the-raspberry-pi-zero-w-8520a4d72b2e
+- https://jamesachambers.com/kali-linux-p4wnp1-aloa-guide-setup-usage-examples/
+- https://medium.com/azkrath/p4wnp1-a-l-o-a-an-advanced-hid-attack-device-d906ae5bf48c
+- https://wickedpicker.com/deploying-ransomware-with-a-weaponized-usb-device/
 
 ## Credits
-- Dewalt-arch pimpmykali script
-https://github.com/Dewalt-arch/pimpmykali
+- Dewalt-arch pimpmykali script:
+  - https://github.com/Dewalt-arch/pimpmykali
