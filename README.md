@@ -1,4 +1,4 @@
-# pimpyP4wnP1
+# pimpmyP4wnP1
  
 - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Raspberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
 
