@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Fix Sources for apt update (repository keyring expired error)
-wget https://archive.kali.org/archive-key.asc -O /etc/apt/trusted.gpg.d/kali-archive-keyring.asc
+wget http://archive.kali.org/archive-key.asc -O /etc/apt/trusted.gpg.d/kali-archive-keyring.asc
 apt update
 
 # Upgrade msfconsole (msf5 to msf6)
