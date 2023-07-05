@@ -1,4 +1,4 @@
-# pimpyP4wnP1
+# pimpmyP4wnP1
  
 - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Raspberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
 
@@ -26,26 +26,28 @@
 - Check if wifi is connected successfully with 'iwconfig'.
 
 - Run pimpmyP4wnP1 script (choose option 0 on pimpmykali script when prompted):
-git clone https://github.com/KoelhoSec/pimpmyP4wnP1
-cd pimpmyP4wnP1
-chmod +x pimpmyP4wnP1.sh
-./pimpmyP4wnP1.sh
+  - git clone https://github.com/KoelhoSec/pimpmyP4wnP1
+  - cd pimpmyP4wnP1
+  - chmod +x pimpmyP4wnP1.sh
+  - ./pimpmyP4wnP1.sh
+
+Note: The script can take a while to finish since the Pi has limited CPU and RAM. 
 
 ## Payload Repositories
+Repositories that may give ideas for payloads. Some might not work, as they are not recent (not maintained).
 
-- Repositories that may give ideas for payloads. Some might not work, as they are not recent (not maintained).
-https://github.com/akhil1136/P4wnP1-ALOA-payloads
-https://github.com/beboxos/P4wnP1-ALOA-HID-payloads
-https://github.com/NightRang3r/P4wnP1-A.L.O.A.-Payloads
-https://github.com/federicodotta/LetMeHID
+- https://github.com/akhil1136/P4wnP1-ALOA-payloads
+- https://github.com/beboxos/P4wnP1-ALOA-HID-payloads
+- https://github.com/NightRang3r/P4wnP1-A.L.O.A.-Payloads
+- https://github.com/federicodotta/LetMeHID
 
 ## Extra Resources
 
-https://levelup.gitconnected.com/hacking-with-the-raspberry-pi-zero-w-8520a4d72b2e
-https://jamesachambers.com/kali-linux-p4wnp1-aloa-guide-setup-usage-examples/
-https://medium.com/azkrath/p4wnp1-a-l-o-a-an-advanced-hid-attack-device-d906ae5bf48c
-https://wickedpicker.com/deploying-ransomware-with-a-weaponized-usb-device/
+- https://levelup.gitconnected.com/hacking-with-the-raspberry-pi-zero-w-8520a4d72b2e
+- https://jamesachambers.com/kali-linux-p4wnp1-aloa-guide-setup-usage-examples/
+- https://medium.com/azkrath/p4wnp1-a-l-o-a-an-advanced-hid-attack-device-d906ae5bf48c
+- https://wickedpicker.com/deploying-ransomware-with-a-weaponized-usb-device/
 
 ## Credits
-- Dewalt-arch pimpmykali script
-https://github.com/Dewalt-arch/pimpmykali
+- Dewalt-arch pimpmykali script:
+  - https://github.com/Dewalt-arch/pimpmykali
