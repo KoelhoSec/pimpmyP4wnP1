@@ -32,12 +32,12 @@ chmod +x pimpmyP4wnP1.sh
 ./pimpmyP4wnP1.sh
 
 ## Payload Repositories
+Repositories that may give ideas for payloads. Some might not work, as they are not recent (not maintained).
 
-- Repositories that may give ideas for payloads. Some might not work, as they are not recent (not maintained).
-https://github.com/akhil1136/P4wnP1-ALOA-payloads
-https://github.com/beboxos/P4wnP1-ALOA-HID-payloads
-https://github.com/NightRang3r/P4wnP1-A.L.O.A.-Payloads
-https://github.com/federicodotta/LetMeHID
+- https://github.com/akhil1136/P4wnP1-ALOA-payloads
+- https://github.com/beboxos/P4wnP1-ALOA-HID-payloads
+- https://github.com/NightRang3r/P4wnP1-A.L.O.A.-Payloads
+- https://github.com/federicodotta/LetMeHID
 
 ## Extra Resources
 
