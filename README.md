@@ -13,6 +13,11 @@
 - USB Dongle Addon board (Optional)
 - Raspberry Pi Zero W Case Kit with Heatsink and accessories (Optional but recommended)
 
+### Note 
+For a more "stealthy" build I also made a post about hiding the Raspberry Pi inside a low budget mouse (a.k.a SpyMouse). You can find instructions for this hardware build here:
+
+https://medium.com/@koelhosec/hiding-a-raspberry-pi-zero-w-with-p4wnp1-a-l-o-a-in-a-low-budget-mouse-9100e6902f86
+
 ## Installation
 
 - Download the Github version of P4wnP1-ALOA (v0.1.1-beta) on https://github.com/RoganDawes/P4wnP1_aloa/releases. If you want a great Youtube tutorial there is one from Network Chuck - https://www.youtube.com/watch?v=km81ph7pZz8&t=168
